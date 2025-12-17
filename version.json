@@ -6,20 +6,17 @@
     "changes": {
         "ru": [
             "Улучшен модуль быстрого доступа",
-            "Исправлена проблема с двойным закрытием окна",
-            "Добавлено отображение остатка и себестоимости",
+            "Автоматический перезапуск после обновления",
             "Исправления ошибок"
         ],
         "uz": [
             "Tezkor kirish moduli yaxshilandi",
-            "Ikki marta oyna yopilishi muammosi tuzatildi",
-            "Qoldiq va tannarx ko'rsatilishi qo'shildi",
+            "Yangilashdan keyin avtomatik qayta ishga tushish",
             "Xatolar tuzatildi"
         ],
         "en": [
             "Improved fast access module",
-            "Fixed double window close issue",
-            "Added stock and cost price display",
+            "Auto restart after update",
             "Bug fixes"
         ]
     }
