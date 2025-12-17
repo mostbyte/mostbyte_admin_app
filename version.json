@@ -1,3 +1,26 @@
 {
-    "version":"1.1.17"
+    "version": "1.1.18",
+    "min_version": "1.0.0",
+    "force_update": false,
+    "download_url": "https://github.com/mostbyte/mostbyte_admin_app/raw/master/Unipos%20Admin.exe",
+    "changes": {
+        "ru": [
+            "Улучшен модуль быстрого доступа",
+            "Исправлена проблема с двойным закрытием окна",
+            "Добавлено отображение остатка и себестоимости",
+            "Исправления ошибок"
+        ],
+        "uz": [
+            "Tezkor kirish moduli yaxshilandi",
+            "Ikki marta oyna yopilishi muammosi tuzatildi",
+            "Qoldiq va tannarx ko'rsatilishi qo'shildi",
+            "Xatolar tuzatildi"
+        ],
+        "en": [
+            "Improved fast access module",
+            "Fixed double window close issue",
+            "Added stock and cost price display",
+            "Bug fixes"
+        ]
+    }
 }
