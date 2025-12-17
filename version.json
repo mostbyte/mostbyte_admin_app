@@ -1,21 +1,7 @@
 {
     "version": "1.1.18",
     "changes": {
-        "ru": [
-            "Улучшен модуль быстрого доступа",
-            "Автоматический перезапуск после обновления",
-            "Исправления ошибок"
-        ],
-        "uz": [
-            "Tezkor kirish moduli yaxshilandi",
-            "Yangilashdan keyin avtomatik qayta ishga tushish",
-            "Xatolar tuzatildi"
-        ],
-        "en": [
-            "Improved fast access module",
-            "Auto restart after update",
-            "Bug fixes"
-        ]
+        
     },
     "min_version": "1.0.0",
     "force_update": false,
