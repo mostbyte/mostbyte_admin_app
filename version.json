@@ -1,7 +1,7 @@
 {
     "version": "1.1.20",
     "min_version": "1.0.0",
-    "force_update": false,
+    "force_update": true,
     "download_url": "https://github.com/mostbyte/mostbyte_admin_app/raw/master/mostbyte_admin.exe",
     "changelog": {
         "1.1.19": [
